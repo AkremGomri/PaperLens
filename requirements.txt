@@ -1,0 +1,12 @@
+arxiv
+chromadb
+weaviate
+langchain 
+langchain-chroma
+langchain_weaviate
+langchain_pinecone
+langchain-core
+langchain-openai
+langchain-text-splitters
+pymupdf
+pdfplumber

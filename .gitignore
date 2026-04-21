@@ -1,0 +1,12 @@
+Data
+diff_review
+Data_fixed
+chroma_db
+__pycache__
+utils/__pycache__
+AbstractClasses/__pycache__
+*/__pycache__
+*.log
+*.aux
+.env
+venv
